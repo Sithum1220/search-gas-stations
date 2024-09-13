@@ -3,6 +3,7 @@ package com.wixis360.searchgas.backend.dto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.springframework.data.mongodb.core.geo.GeoJsonPoint;
 
 @Data
 @AllArgsConstructor
