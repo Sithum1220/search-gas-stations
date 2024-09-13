@@ -1,4 +1,4 @@
-package com.wixis360.searchgas.backend.GasStationRepository;
+package com.wixis360.searchgas.backend.repository;
 
 import com.wixis360.searchgas.backend.entity.GasStation;
 import org.springframework.data.mongodb.repository.MongoRepository;
